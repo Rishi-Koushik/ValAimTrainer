@@ -1,0 +1,33 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds (share the .exe through GitHub Releases instead)
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE / generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
