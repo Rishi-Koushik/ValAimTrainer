@@ -21,3 +21,14 @@ File → Build Profiles (or Build Settings) → Windows → **Build**. Main.unit
 - `Assets/AimTrainer/Scripts/Scenarios.cs`: every drill. Change sizes, spawn areas, durations or the routine order here.
 - `Assets/AimTrainer/Scripts/Game.cs`: room, targets, shooting, scoring, menus and settings.
 - `Assets/AimTrainer/Editor/AimTrainerSetup.cs`: creates the scene on first open.
+
+---
+
+## 👥 Contributors
+
+- **Rishi Koushik** ([@Rishi-Koushik](https://github.com/Rishi-Koushik)) - Creator & Lead Developer
+- **Antigravity** ([Google DeepMind](https://deepmind.google/)) - AI Contributor
+- **Claude** ([Anthropic](https://anthropic.com/)) - AI Contributor
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details.
+
